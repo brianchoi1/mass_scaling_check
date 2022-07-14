@@ -1,0 +1,4 @@
+open keyword "D:\workothers\timestep_check\21.k"
+elemcheck shell timestep 1e-06
+elemcheck shellreport "D:\workothers\timestep_check\timestep_check"
+exit

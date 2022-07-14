@@ -1,0 +1,4 @@
+open keyword "D:\2.k"
+elemcheck shell timestep 1e-06
+elemcheck shellreport "D:\LGE\1.1 work_others\timestep_check\11"
+exit
